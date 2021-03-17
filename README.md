@@ -14,6 +14,7 @@
    ```sh 
    curl -sL https://rpm.nodesource.com/setup_15.x | bash -
    ```
+   https://github.com/nodesource/distributions
 1. install development tools. 
    ```sh 
    yum groupinstall 'Development Tools'
